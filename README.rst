@@ -5,6 +5,7 @@ Provides ZConfig_-compatible logger handler factories for
 `Graylog Extended Log Format`__.
 
 __ http://docs.graylog.org/en/latest/pages/gelf.html
+
 .. code:: python
 
 Usage with `plone.recipe.zope2instance`_:

@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='collective.gelf',
-    version='0.9.0.dev0',
+    version='0.9.0',
     description='Graylog logging handler for Plone',
     long_description=(open('README.rst').read() + '\n' +
                       open('CHANGES.rst').read()),

@@ -6,8 +6,6 @@ Provides ZConfig_-compatible logger handler factories for
 
 __ http://docs.graylog.org/en/latest/pages/gelf.html
 
-.. code:: python
-
 Usage with `plone.recipe.zope2instance`_:
 
 .. _ZConfig: https://pypi.python.org/pypi/ZConfig
